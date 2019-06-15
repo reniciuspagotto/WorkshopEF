@@ -1,0 +1,9 @@
+C:\Users\renic\source\repos\CadastroDeClientes\CadastroDeClientes.Domain\bin\Debug\netcoreapp2.1\CadastroDeClientes.Domain.deps.json
+C:\Users\renic\source\repos\CadastroDeClientes\CadastroDeClientes.Domain\bin\Debug\netcoreapp2.1\CadastroDeClientes.Domain.dll
+C:\Users\renic\source\repos\CadastroDeClientes\CadastroDeClientes.Domain\bin\Debug\netcoreapp2.1\CadastroDeClientes.Domain.pdb
+C:\Users\renic\source\repos\CadastroDeClientes\CadastroDeClientes.Domain\obj\Debug\netcoreapp2.1\CadastroDeClientes.Domain.csprojAssemblyReference.cache
+C:\Users\renic\source\repos\CadastroDeClientes\CadastroDeClientes.Domain\obj\Debug\netcoreapp2.1\CadastroDeClientes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\renic\source\repos\CadastroDeClientes\CadastroDeClientes.Domain\obj\Debug\netcoreapp2.1\CadastroDeClientes.Domain.AssemblyInfoInputs.cache
+C:\Users\renic\source\repos\CadastroDeClientes\CadastroDeClientes.Domain\obj\Debug\netcoreapp2.1\CadastroDeClientes.Domain.AssemblyInfo.cs
+C:\Users\renic\source\repos\CadastroDeClientes\CadastroDeClientes.Domain\obj\Debug\netcoreapp2.1\CadastroDeClientes.Domain.dll
+C:\Users\renic\source\repos\CadastroDeClientes\CadastroDeClientes.Domain\obj\Debug\netcoreapp2.1\CadastroDeClientes.Domain.pdb

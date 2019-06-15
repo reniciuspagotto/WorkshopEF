@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28902.138
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroDeClientes.Domain", "CadastroDeClientes.Domain\CadastroDeClientes.Domain.csproj", "{202CAB98-67F0-47CD-AA56-AE98B9CE9214}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroDeClientes.Web", "CadastroDeClientes.Web\CadastroDeClientes.Web.csproj", "{A017E01E-FF6E-4433-9DF9-B06D57186152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{202CAB98-67F0-47CD-AA56-AE98B9CE9214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202CAB98-67F0-47CD-AA56-AE98B9CE9214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202CAB98-67F0-47CD-AA56-AE98B9CE9214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202CAB98-67F0-47CD-AA56-AE98B9CE9214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A017E01E-FF6E-4433-9DF9-B06D57186152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A017E01E-FF6E-4433-9DF9-B06D57186152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A017E01E-FF6E-4433-9DF9-B06D57186152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A017E01E-FF6E-4433-9DF9-B06D57186152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0618766B-68F4-4AAD-9C86-C538E9D035FD}
+	EndGlobalSection
+EndGlobal
